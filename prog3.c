@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main (void){
     int iNn,iResult_n;
     scanf("%d",&iNn);
